@@ -31,3 +31,9 @@ Task:
 - Validate the hypotheses using Supporting data
 
 # TOOLS : MS EXCEL , MS WORD .
+
+
+
+
+![download](https://user-images.githubusercontent.com/119277783/213900370-037eaa79-004d-4e7f-8233-8fb14e81f3f0.png)
+
