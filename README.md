@@ -31,10 +31,10 @@ Task:
  - L2M
  
  - M2C
-
+                                                                                         ![image-processing20200504-13053-unscreen](https://user-images.githubusercontent.com/119277783/214496067-82e08e20-6673-44ba-8375-4107ecd95bfe.gif)  
  - C2P
 
- - P2O
+ - P2O                             
 
 - Identify which one of the conversions is fluctuating
 - Create hypotheses on what could be the possibility for fluctuation in conversions
