@@ -41,6 +41,15 @@ Task:
 - Create hypotheses on what could be the possibility for fluctuation in conversions
 - Validate the hypotheses using Supporting data
 
+
+
+
+![image_processing20200504-13053-1o806hp](https://user-images.githubusercontent.com/119277783/214491602-7bfccac2-ccc5-4c60-a248-ab0423cf1f76.gif)
+
+
+
+
+
 # TOOLS : MS EXCEL , MS WORD .
 
 
@@ -53,7 +62,7 @@ Task:
 
 
 
-![image_processing20200504-13053-1o806hp](https://user-images.githubusercontent.com/119277783/214491602-7bfccac2-ccc5-4c60-a248-ab0423cf1f76.gif)
+
 
 
 
