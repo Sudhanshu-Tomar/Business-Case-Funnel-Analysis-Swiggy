@@ -37,6 +37,15 @@ Task:
 - M2C
 - C2P
 - P2O
+
+
+
+![unnamed_11zon](https://user-images.githubusercontent.com/119277783/214494081-969f5457-a163-4342-96d7-72de5f1e4b94.jpeg)
+
+
+
+
+
 - Identify which one of the conversions is fluctuating
 - Create hypotheses on what could be the possibility for fluctuation in conversions
 - Validate the hypotheses using Supporting data
