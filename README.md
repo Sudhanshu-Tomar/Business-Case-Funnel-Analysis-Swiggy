@@ -43,6 +43,12 @@ Task:
 
 
 
+![image-processing20200504-13053-unscreen](https://user-images.githubusercontent.com/119277783/214496067-82e08e20-6673-44ba-8375-4107ecd95bfe.gif)
+
+
+
+
+
 
 # TOOLS : MS EXCEL , MS WORD .
 
