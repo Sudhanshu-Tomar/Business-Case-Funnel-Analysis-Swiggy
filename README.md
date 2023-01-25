@@ -1,5 +1,9 @@
 # Business-Case-Funnel-Analysis-Swiggy 
 
+![swiggy](https://user-images.githubusercontent.com/119277783/214460390-5cfa78db-868f-4fc1-a9a6-da99bba6b376.jpg)
+
+
+
 Swiggy is one of the largest food eCommerce platform in the country. Every day more than 1 million users are transacting on the platform. Let’s say you are growth and strategy analyst of Swiggy and you need to generate insight on the company’s performance in 2019. For this, you are going to use the ‘Funnel Case Study Data’ workbook which has 3 worksheets. 
 You can find the details of the sheets below:
 
