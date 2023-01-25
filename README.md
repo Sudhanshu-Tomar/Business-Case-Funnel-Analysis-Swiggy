@@ -14,7 +14,6 @@ Channel wise traffic sheet has traffic (listing sessions) breakup at the date le
 
 Supporting Data sheet has other information at the date level which might help you solve the case. The description of the columns is written below
 
-![Screenshot (88)](https://user-images.githubusercontent.com/119277783/213900036-38577cf1-8d8b-4eaa-b6f6-eb60ea53bdbc.png)
 
 
 Task:
