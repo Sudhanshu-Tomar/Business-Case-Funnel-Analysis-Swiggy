@@ -1,6 +1,7 @@
 # Business-Case-Funnel-Analysis-Swiggy 
 
-![swiggy](https://user-images.githubusercontent.com/119277783/214460390-5cfa78db-868f-4fc1-a9a6-da99bba6b376.jpg)
+![1_fE3JkGyzhWXlXApVnShDtw](https://user-images.githubusercontent.com/119277783/214480951-8ecf9744-a29c-44a0-8b5a-6f164def5196.gif)
+
 
 
 
