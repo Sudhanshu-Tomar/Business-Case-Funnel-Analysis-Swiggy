@@ -28,36 +28,13 @@ Task:
  -Break the overall conversion into smaller part in the following metrics, and create fresh columns on the following metrics in the Session Sheet
  
  
+ - L2M
  
-- L2M
-- 
+ - M2C
 
- 
-    ![1_vDIhbiICvTOa_pG0RGX87Q](https://user-images.githubusercontent.com/119277783/214481528-164eaa4f-f222-4a8d-8be3-30f089da759d.gif)
-    
-    
-    
+ - C2P
 
-- M2C
-
-
-
-
-- C2P
-
-
-
-
-
-- P2O
-
-
-
-![unnamed_11zon](https://user-images.githubusercontent.com/119277783/214494081-969f5457-a163-4342-96d7-72de5f1e4b94.jpeg)
-
-
-
-
+ - P2O
 
 - Identify which one of the conversions is fluctuating
 - Create hypotheses on what could be the possibility for fluctuation in conversions
