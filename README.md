@@ -28,6 +28,8 @@ Task:
 4.Check if there is change in Overall Conversion as compared to previous dates
  -Break the overall conversion into smaller part in the following metrics, and create fresh columns on the following metrics in the Session Sheet
 - L2M
+    ![1_vDIhbiICvTOa_pG0RGX87Q](https://user-images.githubusercontent.com/119277783/214481528-164eaa4f-f222-4a8d-8be3-30f089da759d.gif)
+
 - M2C
 - C2P
 - P2O
